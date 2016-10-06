@@ -5,24 +5,24 @@ layout: default
 ## Development Resources
 - W3C Spec Drafts: <https://w3c.github.io/webvr>
 - ReactVR
-- https://aframe.io/
-- https://webvr.info/
-- https://github.com/borismus/webvr-boilerplate
+- Mozilla A-Frame Framework: <https://aframe.io>
+- WebVR Spec Info Page: <https://webvr.info>
+- WebVR Boilerplate: <https://github.com/borismus/webvr-boilerplate>
 
 ## Platforms
-- Glam: http://tparisi.github.io/glam/
-- http://www.scenevr.com/
+- Glam: <http://tparisi.github.io/glam>
+- Scene VR: <http://www.scenevr.com>
 
 ## Blogs
-- MozVR Blog: https://blog.mozvr.com/
-- Brandon Jones blog: http://blog.tojicode.com/
+- MozVR Blog: <https://blog.mozvr.com>
+- Brandon Jones blog: <http://blog.tojicode.com>
 
 ## Examples
-- VR Chrome Experiments: https://vr.chromeexperiments.com/
-- MozVR.com: https://mozvr.com/
+- VR Chrome Experiments: <https://vr.chromeexperiments.com>
+- MozVR.com: <https://mozvr.com>
 
 ## Online Distribution
-- http://vizor.io/
+- Vizor: <http://vizor.io>
 
 ---
 
