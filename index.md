@@ -5,17 +5,30 @@ layout: default
 ## Development Resources
 - W3C Spec Drafts: https://w3c.github.io/webvr
 - ReactVR
-- Mozilla A-Frame Javascript Framework
+- https://aframe.io/
+- https://webvr.info/
+- https://github.com/borismus/webvr-boilerplate
+
+## Platforms
+- Glam: http://tparisi.github.io/glam/
+- http://www.scenevr.com/
 
 ## Blogs
-- MozVR blog
-- Brandon Jones blog
+- MozVR Blog: https://blog.mozvr.com/
+- Brandon Jones blog: http://blog.tojicode.com/
 
 ## Examples
-- VR Chrome Experiments
-- MozVR.com
+- VR Chrome Experiments: https://vr.chromeexperiments.com/
+- MozVR.com: https://mozvr.com/
 
 ## Online Distribution
+- http://vizor.io/
+
+---
+
+# NormalVR
+
+## Distribution
 - Littlstar
 - Samsung VR
 - Vrideo
