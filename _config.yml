@@ -1,6 +1,6 @@
 title: WebVR Notes
 url: "http://fredeerock.github.io"
-baseurl: "/webvrnotes"
+# baseurl: "/webvrnotes"
 
 markdown: kramdown
 
