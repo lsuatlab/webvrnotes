@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Development Resources
-- W3C Spec Drafts: https://w3c.github.io/webvr
+- W3C Spec Drafts: <https://w3c.github.io/webvr>
 - ReactVR
 - https://aframe.io/
 - https://webvr.info/
