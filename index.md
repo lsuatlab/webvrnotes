@@ -4,10 +4,10 @@ layout: default
 
 ## Development Resources
 - W3C Spec Drafts: <https://w3c.github.io/webvr>
-- ReactVR
-- Mozilla A-Frame Framework: <https://aframe.io>
 - WebVR Spec Info Page: <https://webvr.info>
 - WebVR Boilerplate: <https://github.com/borismus/webvr-boilerplate>
+- Mozilla A-Frame Framework: <https://aframe.io>
+- ReactVR: <https://techcrunch.com/2016/10/06/oculus-webvr>
 
 ## Platforms
 - Glam: <http://tparisi.github.io/glam>
@@ -26,7 +26,7 @@ layout: default
 
 ---
 
-# NormalVR
+### NormalVR
 
 ## Distribution
 - Littlstar
