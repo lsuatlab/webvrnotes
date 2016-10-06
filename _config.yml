@@ -1,7 +1,7 @@
 title: WebVR Notes
 url: "http://fredeerock.github.io"
 baseurl: "/webvrnotes"
-
+author: Derick Ostrenko
 markdown: kramdown
 
 tracking_id: #
