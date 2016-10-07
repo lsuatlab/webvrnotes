@@ -39,7 +39,7 @@ layout: default
 ## Discussion
 - WebVR Reddit: <https://www.reddit.com/r/WebVR>
 - WebVR Slack: <https://webvr.slack.com>
-- WebVR IRC: <irc://chat.freenode.net/webvr>
+- WebVR IRC: irc://chat.freenode.net/webvr
 - Chrome WebVR Issue Tracker: <https://github.com/toji/chrome-webvr-issues/issues>
 
 ## General VR App Lists
