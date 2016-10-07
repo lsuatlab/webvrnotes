@@ -43,5 +43,5 @@ layout: default
 - Chrome WebVR Issue Tracker: <https://github.com/toji/chrome-webvr-issues/issues>
 
 ## General VR App Lists
-- https://www.reddit.com/r/Vive/wiki/index
+- <https://www.reddit.com/r/Vive/wiki>
 - https://www.reddit.com/r/oculus/wiki/vr_games
