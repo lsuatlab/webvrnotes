@@ -2,24 +2,34 @@
 layout: default
 ---
 
+## General Info
+- WebVR Info Page: <https://webvr.info>
+- WebVR on Wikipedia: <https://en.wikipedia.org/wiki/WebVR>
+- Is WebVR Ready? <https://iswebvrready.org>
+
 ## Reference Docs
 - W3C Spec Drafts: <https://w3c.github.io/webvr>
-- WebVR Spec Info Page: <https://webvr.info>
 - MDN WebVR API: <https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API>
 
 ## Getting Started
 - IS WebVR Ready Wiki: <https://github.com/Web-VR/iswebvrready/wiki>
 - WebVR Boilerplate: <https://github.com/borismus/webvr-boilerplate>
+- WebVR Polyfill: <https://github.com/borismus/webvr-polyfill>
 
 ## Frameworks
 - Mozilla A-Frame Framework: <https://aframe.io>
 - ReactVR: <https://techcrunch.com/2016/10/06/oculus-webvr>
 - MozVR on GitHub: <https://github.com/MozVR>
 
+## Browsers
+- Firefox Nightly: <https://nightly.mozilla.org>
+- Firefox WebVR Plus Add-onL <https://addons.mozilla.org/en-US/firefox/addon/mozilla-webvr-enabler>
+- Chromium Instructions: <https://webvr.info/get-chrome>
+
 ## Platforms
 - Oculus WebVR: <https://developer.oculus.com/webvr>
 - Glam: <http://tparisi.github.io/glam>
-- Scene VR: <http://www.scenevr.com>
+- SceneVR: <http://www.scenevr.com>
 
 ## Blogs
 - MozVR Blog: <https://blog.mozvr.com>
@@ -29,12 +39,9 @@ layout: default
 - VR Chrome Experiments: <https://vr.chromeexperiments.com>
 - MozVR.com: <https://mozvr.com>
 
-## Online Distribution
+## Samples & Online Distribution
 - Vizor: <http://vizor.io>
-
-## General Info
-- WebVR on Wikipedia: <https://en.wikipedia.org/wiki/WebVR>
-- Is WebVR Ready? <https://iswebvrready.org>
+- WebVR Samples: <http://toji.github.io/webvr-samples>
 
 ## Discussion
 - WebVR Reddit: <https://www.reddit.com/r/WebVR>
