@@ -44,4 +44,4 @@ layout: default
 
 ## General VR App Lists
 - <https://www.reddit.com/r/Vive/wiki>
-- https://www.reddit.com/r/oculus/wiki/vr_games
+- <https://www.reddit.com/r/oculus/wiki/vr_games>
