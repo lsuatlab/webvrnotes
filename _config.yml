@@ -2,7 +2,7 @@ title: WebVR Notes
 url: "https://lsuatlab.github.io"
 baseurl: "/webvrnotes"
 author: Derick Ostrenko
-# markdown: kramdown
+markdown: kramdown
 
 tracking_id: UA-70612838-3
 
