@@ -64,6 +64,7 @@ layout: default
 - <https://www.reddit.com/r/oculus/wiki/vr_games>
 
 ## Communities
+- WebVR W3C Community Group: <https://www.w3.org/community/webvr>
 - Web3D Consortium: <http://www.web3d.org>
 - SIGGRAPH
 - SIGGRAPH Digital Arts Community
