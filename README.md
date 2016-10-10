@@ -7,7 +7,7 @@ The following is a collection of links related to WebVR. Feel free to contribute
 ## General Info
 - WebVR Info Page: <https://webvr.info>
 - WebVR on Wikipedia: <https://en.wikipedia.org/wiki/WebVR>
-- Virtual Reality Website on Wikipedia: <https://en.wikipedia.org/wiki/Virtual_Reality_Website>
+- VR Website on Wikipedia: <https://en.wikipedia.org/wiki/Virtual_Reality_Website>
 - Is WebVR Ready? <https://iswebvrready.org>
 
 ## Reference Docs
