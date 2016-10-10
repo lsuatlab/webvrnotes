@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 ---
-The following is a collection of links related to WebVR. Feel free to contribute to the list via a pull request.
+*The following is a collection of links related to WebVR. Feel free to contribute to the [by clicking here](https://github.com/lsuatlab/webvrnotes/edit/gh-pages/README.md) and creating a pull request.*
 
 ## General Info
 - WebVR Info Page: <https://webvr.info>
@@ -91,6 +91,5 @@ The following is a collection of links related to WebVR. Feel free to contribute
 - FILE
 - SIGGRAPH
 
-## One way to contribute to this list
-1. Propose a file change by clicking: <https://github.com/lsuatlab/webvrnotes/edit/gh-pages/README.md>
-2. Click, Create pull request
+---
+*List started by the [LSU ATlab](http://atlab.cct.lsu.edu).*
