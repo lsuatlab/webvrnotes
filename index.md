@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-The following is a collection of links related to WebVR. Feel free to contribute to the list via a pull request.
+The following is a collection of links related to WebVR. Feel free to contribute to the list via a pull request on index.md.
 
 ## General Info
 - WebVR Info Page: <https://webvr.info>
@@ -77,10 +77,10 @@ The following is a collection of links related to WebVR. Feel free to contribute
 - WebVR W3C Community Group: <https://www.w3.org/community/webvr>
 - Whitestone Creative Network: <http://whitestone.io>
 - Web3D Consortium: <http://www.web3d.org>
-- SIGGRAPH
 - SIGGRAPH Digital Arts Community
 
 ## Conferences & Festivals
 - Kaleidoscope VR Film Festival: <http://kaleidovr.com>
 - ISEA
 - FILE
+- SIGGRAPH
