@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 ---
-The following is a collection of links related to WebVR. Feel free to contribute to the list via a pull request.
+aaa The following is a collection of links related to WebVR. Feel free to contribute to the list via a pull request.
 
 ## General Info
 - WebVR Info Page: <https://webvr.info>
