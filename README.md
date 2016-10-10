@@ -53,13 +53,18 @@ The following is a collection of links related to WebVR. Feel free to contribute
 
 ## WebVR Artists, Designers, & Developers
 - Jaume Sanchez Elias: <https://www.clicktorelease.com>
-- AATOAA: <http://www.aatoaa.com>
+- AATOAA (Vincent Morisset): <http://www.aatoaa.com>
 - Vincent Morisset: <http://vincentmorisset.com>
 - 12Wave
 - Google Spotlight Stories
+- Google Data Arts Team
 - Mateusz Marpi Marcinowski: <http://new.marpi.pl>
 - Magnus Östergren: <http://www.herrpotemkin.com>
 - James Reid
+- Object Normal (David Lobser & Scott Garner): <https://www.objectnormal.com>
+- Sydney Zhao: <http://sydneyzh.me>
+- Unboring (Arturo Paracuellos): <http://www.unboring.net>
+- Samuel Snider-Held
 
 ## WebVR Projects
 - ...
