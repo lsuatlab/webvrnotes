@@ -86,9 +86,6 @@ The following is a collection of links related to WebVR. Feel free to contribute
 - FILE
 - SIGGRAPH
 
-## Contributing to this list
-1. Fork the repo: <https://github.com/lsuatlab/webvrnotes>
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+## One way to contribute to this list
+1. Propose a file change by clicking: <https://github.com/lsuatlab/webvrnotes/edit/gh-pages/README.md>
+2. Make the pull request
