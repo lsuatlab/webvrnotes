@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+The following is a collection of links related to WebVR. Feel free to contribute to the list via a pull request.
 
 ## General Info
 - WebVR Info Page: <https://webvr.info>
@@ -41,16 +42,25 @@ layout: default
 - Brandon Jones blog: <http://blog.tojicode.com>
 - Web + VR = WebVR: <http://webglvr.tumblr.com>
 
-## Examples
-- VR Chrome Experiments: <https://vr.chromeexperiments.com>
-- MozVR.com: <https://mozvr.com>
-
-## Samples & Online Distribution
+## WebVR Collections & Examples
 - Vizor: <http://vizor.io>
+- VR Chrome Experiments 1: <https://www.chromeexperiments.com/virtual-reality>
+- VR Chrome Experiments 2: <https://vr.chromeexperiments.com>
+- MozVR.com: <https://mozvr.com>
 - WebVR Samples: <http://toji.github.io/webvr-samples>
+- Whitestone Creative Network: <http://whitestone.io> (Duplicate)
 
 ## WebVR Artists, Designers, & Developers
 - Jaume Sanchez Elias: <https://www.clicktorelease.com>
+- AATOAA: <http://www.aatoaa.com>
+- Vincent Morisset: <http://vincentmorisset.com>
+- 12Wave
+- Google Spotlight Stories
+- Mateusz Marpi Marcinowski: <http://new.marpi.pl>
+- Magnus Östergren: <http://www.herrpotemkin.com>
+- James Reid
+
+## WebVR Projects
 - ...
 
 ## Discussion
@@ -65,6 +75,12 @@ layout: default
 
 ## Communities
 - WebVR W3C Community Group: <https://www.w3.org/community/webvr>
+- Whitestone Creative Network: <http://whitestone.io>
 - Web3D Consortium: <http://www.web3d.org>
 - SIGGRAPH
 - SIGGRAPH Digital Arts Community
+
+## Conferences & Festivals
+- Kaleidoscope VR Film Festival: <http://kaleidovr.com>
+- ISEA
+- FILE
