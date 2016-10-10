@@ -1,5 +1,7 @@
 ---
 layout: default
+redirect_to:
+  - README.html
 ---
 The following is a collection of links related to WebVR. Feel free to contribute to the list via a pull request on index.md.
 
