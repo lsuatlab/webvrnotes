@@ -88,4 +88,4 @@ The following is a collection of links related to WebVR. Feel free to contribute
 
 ## One way to contribute to this list
 1. Propose a file change by clicking: <https://github.com/lsuatlab/webvrnotes/edit/gh-pages/README.md>
-2. Make the pull request
+2. Click, Create pull request
