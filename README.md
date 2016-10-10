@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 ---
-*The following is a collection of links related to WebVR. Feel free to contribute to the [by clicking here](https://github.com/lsuatlab/webvrnotes/edit/gh-pages/README.md) and creating a pull request.*
+*The following is a collection of links related to WebVR. Feel free to contribute [by clicking here](https://github.com/lsuatlab/webvrnotes/edit/gh-pages/README.md) and creating a pull request.*
 
 ## General Info
 - WebVR Info Page: <https://webvr.info>
@@ -19,6 +19,7 @@ permalink: /
 - WebVR Boilerplate: <https://github.com/borismus/webvr-boilerplate>
 - WebVR Polyfill: <https://github.com/borismus/webvr-polyfill>
 - WebVR One-liner for three.js: <https://github.com/mflux/three-vr-viewer>
+- Chrome Extension for emulating VR Headsets: <https://github.com/spite/WebVR-Extension>
 
 ## Frameworks, Libraries, etc
 - Mozilla A-Frame Framework: <https://aframe.io>
