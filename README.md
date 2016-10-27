@@ -70,7 +70,8 @@ permalink: /
 - Samuel Snider-Held
 
 ## WebVR Projects
-- ...
+- Vincent Morissett <http://a-way-to-go.com>
+- ... more to come.
 
 ## Discussion
 - WebVR Reddit: <https://www.reddit.com/r/WebVR>
