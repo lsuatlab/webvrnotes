@@ -24,6 +24,7 @@ permalink: /
 
 ## Frameworks, Libraries, etc
 - Mozilla A-Frame Framework: <https://aframe.io>
+- PlayCanvas: <https://playcanvas.com>
 - ReactVR: <https://techcrunch.com/2016/10/06/oculus-webvr>
 - MozVR on GitHub: <https://github.com/MozVR>
 - Glam: <http://tparisi.github.io/glam>
@@ -47,6 +48,7 @@ permalink: /
 - Web + VR = WebVR: <http://webglvr.tumblr.com>
 
 ## WebVR Collections & Examples
+- Infiverse: <http://infiverse.com>
 - Vizor: <http://vizor.io>
 - VR Chrome Experiments 1: <https://www.chromeexperiments.com/virtual-reality>
 - VR Chrome Experiments 2: <https://vr.chromeexperiments.com>
