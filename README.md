@@ -49,6 +49,7 @@ permalink: /
 - Web + VR = WebVR: <http://webglvr.tumblr.com>
 
 ## WebVR Collections & Examples
+- Immersive Expressions <http://immersive-expressions.siggraph.org/>
 - VRList: <http://vrlist.io>
 - WebVR Experiments: <https://webvrexperiments.com/>
 - Infiverse: <http://infiverse.com>
