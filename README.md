@@ -7,6 +7,7 @@ permalink: /
 ## General Info
 - WebVR Info Page: <https://webvr.info>
 - WebVR on Wikipedia: <https://en.wikipedia.org/wiki/WebVR>
+- WebVR Rocks: <https://webvr.rocks/>
 - VR Website on Wikipedia: <https://en.wikipedia.org/wiki/Virtual_Reality_Website>
 - Is WebVR Ready? <https://iswebvrready.org>
 
@@ -33,7 +34,7 @@ permalink: /
 
 ## Browsers
 - Firefox Nightly: <https://nightly.mozilla.org>
-- Firefox WebVR Plus Add-onL <https://addons.mozilla.org/en-US/firefox/addon/mozilla-webvr-enabler>
+- Firefox WebVR Plus Add-on <https://addons.mozilla.org/en-US/firefox/addon/mozilla-webvr-enabler>
 - Chromium Instructions: <https://webvr.info/get-chrome>
 - JanusVR: <http://janusvr.com>
 
@@ -48,6 +49,7 @@ permalink: /
 - Web + VR = WebVR: <http://webglvr.tumblr.com>
 
 ## WebVR Collections & Examples
+- WebVR Experiments: <https://webvrexperiments.com/>
 - Infiverse: <http://infiverse.com>
 - Vizor: <http://vizor.io>
 - VR Chrome Experiments 1: <https://www.chromeexperiments.com/virtual-reality>
