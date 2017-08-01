@@ -26,7 +26,7 @@ permalink: /
 ## Frameworks, Libraries, etc
 - Mozilla A-Frame Framework: <https://aframe.io>
 - PlayCanvas: <https://playcanvas.com>
-- ReactVR: <https://techcrunch.com/2016/10/06/oculus-webvr>
+- ReactVR: <https://facebook.github.io/react-vr/>
 - MozVR on GitHub: <https://github.com/MozVR>
 - Glam: <http://tparisi.github.io/glam>
 - three.js: <https://threejs.org>
